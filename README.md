@@ -118,11 +118,19 @@
 
 # 📊 GitHub Analytics
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vikashmishra464&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashmishra464&layout=compact&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=vikashmishra464&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vikash464&show_icons=true&theme=radical&layout=compact" alt="GitHub stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikash464&layout=compact&theme=radical" alt="Top Languages">
+  <br>
+  <img src="https://streak-stats.demolab.com?user=vikash464&theme=radical&hide_border=true" alt="GitHub Streak Stats">
 </div>
+---
+
+# 🐍 Contribution Graph
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikashmishra464&theme=tokyonight" />
+</div>
+
 
 ---
 
@@ -135,5 +143,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=vikashmishra464&style=for-the-badge&color=blue" />
 </div>
