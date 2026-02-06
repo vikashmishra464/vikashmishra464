@@ -117,13 +117,18 @@
 ---
 
 # 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikashmishra464&show_icons=true&theme=radical&layout=compact" alt="GitHub stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashmishra464&layout=compact&theme=radical" alt="Top Languages">
-  <br>
-  <img src="https://streak-stats.demolab.com?user=vikashmishra464&theme=radical&hide_border=true" alt="GitHub Streak Stats">
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vikashmishra464&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashmishra464&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vikashmishra464&theme=radical&hide_border=true" />
+</p>
+
 ---
 
 # 🐍 Contribution Graph
